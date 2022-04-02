@@ -15,7 +15,7 @@ function App() {
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					Learn React JS 2022
+					Latest React JS 2022
 				</a>
 			</header>
 		</div>
